@@ -1,0 +1,5 @@
+build
+deploy
+paddleocr.egg-info
+test_tipc
+configs

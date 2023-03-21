@@ -1,0 +1,8 @@
+index,uuid,driver_version,name,gpu_serial,display_active,display_mode
+0,GPU-415021ef-8055-8341-8cc7-599bda8b36f7,460.27.04,GeForce RTX 2080 Ti,[N/A],Disabled,Disabled
+
+pid,process_name,gpu_uuid,gpu_name,used_memory
+13216,[Not Found],GPU-415021ef-8055-8341-8cc7-599bda8b36f7,GeForce RTX 2080 Ti,11005
+
+index,utilization_gpu,memory_total,memory_used,memory_free,timestamp
+0,0,11019,11009,10,2023/03/01 04:11:16.543
